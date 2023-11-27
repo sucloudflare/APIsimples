@@ -17,9 +17,7 @@ npm install
 
 3. npm start
 
-Certamente! Aqui está um exemplo de README para o código fornecido:
 
-markdown
 
 # API Web Simples com Express
 
