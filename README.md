@@ -28,17 +28,7 @@ Este é um exemplo de uma API web simples utilizando o framework Express.js em N
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 
-1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/sucloudflare/APIsimples
-
-    Instale as dependências:
-
-    bash
-
-    cd APIsimples
-    npm install
 
 Uso
 
