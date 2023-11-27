@@ -11,9 +11,9 @@ const app = express();
 app.use(express.json());
 
 // Servir arquivos estáticos dos diretórios dentro de 'public'
-app.use("/images", express.static(path.join(__dirname, "public", "images")));
-app.use("/styles", express.static(path.join(__dirname, "public", "styles")));
-app.use("/scripts", express.static(path.join(__dirname, "public", "scripts")));
+//app.use("/images", express.static(path.join(__dirname, "public", "images")));
+//app.use("/styles", express.static(path.join(__dirname, "public", "styles")));
+//app.use("/scripts", express.static(path.join(__dirname, "public", "scripts")));
 
 // Rota raiz
 app.get("/", (req, res) => {
