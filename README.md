@@ -32,13 +32,13 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/sucloudflare/APIsimples
 
     Instale as dependências:
 
     bash
 
-    cd seu-projeto
+    cd APIsimples
     npm install
 
 Uso
