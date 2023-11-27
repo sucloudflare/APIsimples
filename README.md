@@ -62,8 +62,9 @@ Para executar o aplicativo com o nodemon, você pode adicionar o seguinte script
       "dev": "nodemon src/app.js"
     }                   
 
-// Em seguida, execute o aplicativo usando o seguinte comando:
-// npm run dev
+```Em seguida, execute o aplicativo usando o seguinte comando:
+      npm run dev
+```
 Acesse a API em http://localhost:3000 no seu navegador.
 Estrutura do Projeto
 
