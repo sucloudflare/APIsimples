@@ -12,7 +12,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 
    ```bash
    git clone hhttps://github.com/sucloudflare/APIsimples
-2. cd seu-projeto
+2. cd APIsimples
 npm install
 
 3. npm start
