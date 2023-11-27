@@ -68,12 +68,13 @@ Para executar o aplicativo com o nodemon, você pode adicionar o seguinte script
 Acesse a API em http://localhost:3000 no seu navegador.
 Estrutura do Projeto
 
-    public: Contém arquivos estáticos como HTML, CSS, imagens, etc.
+    
+   public: Contém arquivos estáticos como HTML, CSS, imagens, etc.
         images: Diretório para armazenar imagens.
         styles: Diretório para armazenar folhas de estilo CSS.
         scripts: Diretório para armazenar scripts JavaScript.
 
-    src: Contém o código-fonte da aplicação.
+   src: Contém o código-fonte da aplicação.
         app.js: Arquivo principal da aplicação.
 
 Rota Raiz
