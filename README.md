@@ -49,6 +49,13 @@ bash
 
 npm start
 
+ou
+
+Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamente o servidor quando houver alterações no código. Execute o seguinte comando:
+
+npm run dev
+
+
 Acesse a API em http://localhost:3000 no seu navegador.
 Estrutura do Projeto
 
