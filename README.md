@@ -17,8 +17,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 ```bash
       cd APIsimples
       npm install
-```
-```3.
+
        npm start
 ```
 
