@@ -11,7 +11,7 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone hhttps://github.com/sucloudflare/APIsimples
 2. cd seu-projeto
 npm install
 
