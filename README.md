@@ -51,8 +51,8 @@ Execute a aplicação com o seguinte comando:
 ```
 ou
 
-```Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamente o servidor quando houver alterações no código. Execute o seguinte comando:
-
+Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamente o servidor quando houver alterações no código. Execute o seguinte comando:
+```
    npm run dev
 ```
 
