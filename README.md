@@ -53,7 +53,17 @@ Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamen
 ```
    npm run dev
 ```
+Para instalar o nodemon como dependência de desenvolvimento, você pode usar o comando:
+   ```npm install nodemon --save-dev```
 
+Para executar o aplicativo com o nodemon, você pode adicionar o seguinte script no seu arquivo package.json:
+ 
+    "scripts": {
+      "dev": "nodemon src/app.js"
+    }                   
+
+// Em seguida, execute o aplicativo usando o seguinte comando:
+// npm run dev
 Acesse a API em http://localhost:3000 no seu navegador.
 Estrutura do Projeto
 
