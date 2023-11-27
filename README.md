@@ -45,16 +45,16 @@ Uso
 
 Execute a aplicação com o seguinte comando:
 
-bash
+```bash
 
-npm start
-
+   npm start
+```
 ou
 
-Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamente o servidor quando houver alterações no código. Execute o seguinte comando:
+```Para desenvolvimento, você pode utilizar o Nodemon para reiniciar automaticamente o servidor quando houver alterações no código. Execute o seguinte comando:
 
-npm run dev
-
+   npm run dev
+```
 
 Acesse a API em http://localhost:3000 no seu navegador.
 Estrutura do Projeto
